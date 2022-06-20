@@ -14,9 +14,10 @@ public class LinkedListUse {
 
     }
     public static void print(Node<Integer> head){
-        while(head!=null){
-            System.out.print(head.data+" ");
-            head=head.next;
+        Node<Integer> temp=head;
+        while(temp!=null){
+            System.out.print(temp.data+" ");
+            temp=temp.next;
         }
     }
     public static void main(String[] args){
