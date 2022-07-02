@@ -1,16 +1,14 @@
 package All_Work.DSA_IN_JAVA.linked_list_2;
 
 import java.util.Scanner;
-class Node<T>{
-    T data;
-    Node<T> next;
-    Node(T data){
-        this.data=data;
+// class Node<T>{
+//     T data;
+//     Node<T> next;
+//     Node(T data){
+//         this.data=data;
+//     }
 
-    }
-
-
-}
+// }
 public class PrintLLRecursive {
     
     public static void printReverse(Node<Integer> head){
@@ -48,6 +46,7 @@ public class PrintLLRecursive {
 
         
     }
+    
     public static void main(String[] args){
         Node<Integer> head=takeInput();
         print(head);
