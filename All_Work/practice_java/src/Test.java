@@ -1,16 +1,16 @@
 package All_Work.practice_java.src;
 
+import java.util.LinkedList;
+import java.util.Queue;
 import java.util.Stack;
-
-public class Test {
+class Test {
     public static void main (String[] args) {
-        Stack<Integer> stack=new Stack<Integer>();
-        for(int i=0;i<10;i++)
-        {
-            stack.push(i*2);
-        }
-        System.out.print(stack.peek());
-    
+        Queue<Integer> q=new LinkedList<Integer>();
+        Stack<Integer> s=new Stack<Integer>();
+        q.add(5);
+        q.add(10);
+        s.push(10);
+        s.push(20);
+        System.out.print(q.peek()+s.pop());
     }
-    
 }
