@@ -30,6 +30,7 @@ public class TakeBinaryTreeBetterInput {
         root.right=rightChild;
         
         return root;
+    
     }
     public static void printTree(BinaryTreeNode<Integer> root){
         if(root==null){
