@@ -1,5 +1,6 @@
 package All_Work.DSA_IN_JAVA.linked_list_1.linked_list_use;
 
+import All_Work.DSA_IN_JAVA.queue.linked_list_queue.Node;
 
 public class LinkedListUse {
     public static Node<Integer> createLinkedList(){
