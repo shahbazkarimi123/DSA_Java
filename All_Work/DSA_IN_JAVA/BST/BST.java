@@ -58,6 +58,9 @@ public class BST {
     public void insert(int data){
         root = insertHelper(root,data);
     }
-    
+    public int size(){
+        return size;
+    }
+        
     
 }
