@@ -1,0 +1,364 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch LargestBST",
+            "request": "launch",
+            "mainClass": "All_Work.BST2.LargestBST",
+            "projectName": "DSA_Java_efdfc8e7"
+        },
+        {
+            "type": "java",
+            "name": "Launch FindPathInBST",
+            "request": "launch",
+            "mainClass": "All_Work.BST2.FindPathInBST",
+            "projectName": "DSA_Java_efdfc8e7"
+        },
+        {
+            "type": "java",
+            "request": "attach",
+            "name": "Java",
+            "port": 5005,
+            "sourceRoots": []
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch BSTUse",
+            "request": "launch",
+            "mainClass": "All_Work.DSA_IN_JAVA.BST.BSTUse",
+            "projectName": "DSA_Java_efdfc8e7"
+        },
+        {
+            "type": "java",
+            "name": "Launch ConstructBST",
+            "request": "launch",
+            "mainClass": "All_Work.DSA_IN_JAVA.BST.ConstructBST",
+            "projectName": "DSA_Java_efdfc8e7"
+        },
+        {
+            "type": "java",
+            "name": "Launch ElementBetweenK1K2",
+            "request": "launch",
+            "mainClass": "All_Work.DSA_IN_JAVA.BST.ElementBetweenK1K2",
+            "projectName": "DSA_Java_efdfc8e7"
+        },
+        {
+            "type": "java",
+            "name": "Launch ReplaceWithLargerNodeSum",
+            "request": "launch",
+            "mainClass": "All_Work.DSA_IN_JAVA.BST.ReplaceWithLargerNodeSum",
+            "projectName": "DSA_Java_efdfc8e7"
+        },
+        {
+            "type": "java",
+            "name": "Launch SearchInBST",
+            "request": "launch",
+            "mainClass": "All_Work.DSA_IN_JAVA.BST.SearchInBST",
+            "projectName": "DSA_Java_efdfc8e7"
+        },
+        {
+            "type": "java",
+            "name": "Launch LargestNodeInTree",
+            "request": "launch",
+            "mainClass": "All_Work.DSA_IN_JAVA.binary_trees_1.LargestNodeInTree",
+            "projectName": "DSA_Java_efdfc8e7"
+        },
+        {
+            "type": "java",
+            "name": "Launch NumberOfLeaves",
+            "request": "launch",
+            "mainClass": "All_Work.DSA_IN_JAVA.binary_trees_1.NumberOfLeaves",
+            "projectName": "DSA_Java_efdfc8e7"
+        },
+        {
+            "type": "java",
+            "name": "Launch PrintAtDepthK",
+            "request": "launch",
+            "mainClass": "All_Work.DSA_IN_JAVA.binary_trees_1.PrintAtDepthK",
+            "projectName": "DSA_Java_efdfc8e7"
+        },
+        {
+            "type": "java",
+            "name": "Launch TakeBinaryTreeBetterInput",
+            "request": "launch",
+            "mainClass": "All_Work.DSA_IN_JAVA.binary_trees_1.TakeBinaryTreeBetterInput",
+            "projectName": "DSA_Java_efdfc8e7"
+        },
+        {
+            "type": "java",
+            "name": "Launch BinaryTreeUse",
+            "request": "launch",
+            "mainClass": "All_Work.DSA_IN_JAVA.binary_trees_1.binaryTree.BinaryTreeUse",
+            "projectName": "DSA_Java_efdfc8e7"
+        },
+        {
+            "type": "java",
+            "name": "Launch RemoveDuplicateFromArray",
+            "request": "launch",
+            "mainClass": "All_Work.DSA_IN_JAVA.linked_list_1.RemoveDuplicateFromArray",
+            "projectName": "DSA_Java_efdfc8e7"
+        },
+        {
+            "type": "java",
+            "name": "Launch AppandLastNToFirst",
+            "request": "launch",
+            "mainClass": "All_Work.DSA_IN_JAVA.linked_list_1.linked_list_use.AppandLastNToFirst",
+            "projectName": "DSA_Java_efdfc8e7"
+        },
+        {
+            "type": "java",
+            "name": "Launch EliminateDuplicateFromLL",
+            "request": "launch",
+            "mainClass": "All_Work.DSA_IN_JAVA.linked_list_1.linked_list_use.EliminateDuplicateFromLL",
+            "projectName": "DSA_Java_efdfc8e7"
+        },
+        {
+            "type": "java",
+            "name": "Launch InsertNodeInLL",
+            "request": "launch",
+            "mainClass": "All_Work.DSA_IN_JAVA.linked_list_1.linked_list_use.InsertNodeInLL",
+            "projectName": "DSA_Java_efdfc8e7"
+        },
+        {
+            "type": "java",
+            "name": "Launch LinkedListCreate",
+            "request": "launch",
+            "mainClass": "All_Work.DSA_IN_JAVA.linked_list_1.linked_list_use.LinkedListCreate",
+            "projectName": "DSA_Java_efdfc8e7"
+        },
+        {
+            "type": "java",
+            "name": "Launch LinkedListUse",
+            "request": "launch",
+            "mainClass": "All_Work.DSA_IN_JAVA.linked_list_1.linked_list_use.LinkedListUse",
+            "projectName": "DSA_Java_efdfc8e7"
+        },
+        {
+            "type": "java",
+            "name": "Launch OptimizeTakeInput",
+            "request": "launch",
+            "mainClass": "All_Work.DSA_IN_JAVA.linked_list_1.linked_list_use.OptimizeTakeInput",
+            "projectName": "DSA_Java_efdfc8e7"
+        },
+        {
+            "type": "java",
+            "name": "Launch Palindroms",
+            "request": "launch",
+            "mainClass": "All_Work.DSA_IN_JAVA.linked_list_1.linked_list_use.Palindroms",
+            "projectName": "DSA_Java_efdfc8e7"
+        },
+        {
+            "type": "java",
+            "name": "Launch DeleteNodeRecur",
+            "request": "launch",
+            "mainClass": "All_Work.DSA_IN_JAVA.linked_list_2.DeleteNodeRecur",
+            "projectName": "DSA_Java_efdfc8e7"
+        },
+        {
+            "type": "java",
+            "name": "Launch InsertRecursiveInLL",
+            "request": "launch",
+            "mainClass": "All_Work.DSA_IN_JAVA.linked_list_2.InsertRecursiveInLL",
+            "projectName": "DSA_Java_efdfc8e7"
+        },
+        {
+            "type": "java",
+            "name": "Launch MergeSortLL",
+            "request": "launch",
+            "mainClass": "All_Work.DSA_IN_JAVA.linked_list_2.MergeSortLL",
+            "projectName": "DSA_Java_efdfc8e7"
+        },
+        {
+            "type": "java",
+            "name": "Launch MidPoint",
+            "request": "launch",
+            "mainClass": "All_Work.DSA_IN_JAVA.linked_list_2.MidPoint",
+            "projectName": "DSA_Java_efdfc8e7"
+        },
+        {
+            "type": "java",
+            "name": "Launch PrintLLRecursive",
+            "request": "launch",
+            "mainClass": "All_Work.DSA_IN_JAVA.linked_list_2.PrintLLRecursive",
+            "projectName": "DSA_Java_efdfc8e7"
+        },
+        {
+            "type": "java",
+            "name": "Launch ReverseLL",
+            "request": "launch",
+            "mainClass": "All_Work.DSA_IN_JAVA.linked_list_2.ReverseLL",
+            "projectName": "DSA_Java_efdfc8e7"
+        },
+        {
+            "type": "java",
+            "name": "Launch QueueUse",
+            "request": "launch",
+            "mainClass": "All_Work.DSA_IN_JAVA.queue.QueueUse",
+            "projectName": "DSA_Java_efdfc8e7"
+        },
+        {
+            "type": "java",
+            "name": "Launch CircularQueueUse",
+            "request": "launch",
+            "mainClass": "All_Work.DSA_IN_JAVA.queue.circular_queue.CircularQueueUse",
+            "projectName": "DSA_Java_efdfc8e7"
+        },
+        {
+            "type": "java",
+            "name": "Launch DynamicQueueUse",
+            "request": "launch",
+            "mainClass": "All_Work.DSA_IN_JAVA.queue.dynamic_queue.DynamicQueueUse",
+            "projectName": "DSA_Java_efdfc8e7"
+        },
+        {
+            "type": "java",
+            "name": "Launch QueueLLUse",
+            "request": "launch",
+            "mainClass": "All_Work.DSA_IN_JAVA.queue.linked_list_queue.QueueLLUse",
+            "projectName": "DSA_Java_efdfc8e7"
+        },
+        {
+            "type": "java",
+            "name": "Launch CalculatePower",
+            "request": "launch",
+            "mainClass": "All_Work.DSA_IN_JAVA.recursion_1.CalculatePower",
+            "projectName": "DSA_Java_efdfc8e7"
+        },
+        {
+            "type": "java",
+            "name": "Launch CheckNumberInArray",
+            "request": "launch",
+            "mainClass": "All_Work.DSA_IN_JAVA.recursion_1.CheckNumberInArray",
+            "projectName": "DSA_Java_efdfc8e7"
+        },
+        {
+            "type": "java",
+            "name": "Launch FirstIndexOfANumberInArray",
+            "request": "launch",
+            "mainClass": "All_Work.DSA_IN_JAVA.recursion_1.FirstIndexOfANumberInArray",
+            "projectName": "DSA_Java_efdfc8e7"
+        },
+        {
+            "type": "java",
+            "name": "Launch FirstNNaturalNumber",
+            "request": "launch",
+            "mainClass": "All_Work.DSA_IN_JAVA.recursion_1.FirstNNaturalNumber",
+            "projectName": "DSA_Java_efdfc8e7"
+        },
+        {
+            "type": "java",
+            "name": "Launch LastIndexOfNumberInArray",
+            "request": "launch",
+            "mainClass": "All_Work.DSA_IN_JAVA.recursion_1.LastIndexOfNumberInArray",
+            "projectName": "DSA_Java_efdfc8e7"
+        },
+        {
+            "type": "java",
+            "name": "Launch NumberOfDigits",
+            "request": "launch",
+            "mainClass": "All_Work.DSA_IN_JAVA.recursion_1.NumberOfDigits",
+            "projectName": "DSA_Java_efdfc8e7"
+        },
+        {
+            "type": "java",
+            "name": "Launch SumOfArray",
+            "request": "launch",
+            "mainClass": "All_Work.DSA_IN_JAVA.recursion_1.SumOfArray",
+            "projectName": "DSA_Java_efdfc8e7"
+        },
+        {
+            "type": "java",
+            "name": "Launch MergeSort",
+            "request": "launch",
+            "mainClass": "All_Work.DSA_IN_JAVA.recursion_2.MergeSort",
+            "projectName": "DSA_Java_efdfc8e7"
+        },
+        {
+            "type": "java",
+            "name": "Launch QuickSort",
+            "request": "launch",
+            "mainClass": "All_Work.DSA_IN_JAVA.recursion_2.QuickSort",
+            "projectName": "DSA_Java_efdfc8e7"
+        },
+        {
+            "type": "java",
+            "name": "Launch RemoveX",
+            "request": "launch",
+            "mainClass": "All_Work.DSA_IN_JAVA.recursion_2.RemoveX",
+            "projectName": "DSA_Java_efdfc8e7"
+        },
+        {
+            "type": "java",
+            "name": "Launch ReplaceCharRecursively",
+            "request": "launch",
+            "mainClass": "All_Work.DSA_IN_JAVA.recursion_2.ReplaceCharRecursively",
+            "projectName": "DSA_Java_efdfc8e7"
+        },
+        {
+            "type": "java",
+            "name": "Launch ReplaceDuplicaterecursively",
+            "request": "launch",
+            "mainClass": "All_Work.DSA_IN_JAVA.recursion_2.ReplaceDuplicaterecursively",
+            "projectName": "DSA_Java_efdfc8e7"
+        },
+        {
+            "type": "java",
+            "name": "Launch StackLLUse",
+            "request": "launch",
+            "mainClass": "All_Work.DSA_IN_JAVA.stacks.stack_using_Linked_List.StackLLUse",
+            "projectName": "DSA_Java_efdfc8e7"
+        },
+        {
+            "type": "java",
+            "name": "Launch StackUse",
+            "request": "launch",
+            "mainClass": "All_Work.DSA_IN_JAVA.stacks.stack_using_array.StackUse",
+            "projectName": "DSA_Java_efdfc8e7"
+        },
+        {
+            "type": "java",
+            "name": "Launch MyQuickSort",
+            "request": "launch",
+            "mainClass": "All_Work.practice_java.MyQuickSort",
+            "projectName": "DSA_Java_efdfc8e7"
+        },
+        {
+            "type": "java",
+            "name": "Launch LinkedListUse(1)",
+            "request": "launch",
+            "mainClass": "All_Work.practice_java.src.LinkedListUse",
+            "projectName": "DSA_Java_efdfc8e7"
+        },
+        {
+            "type": "java",
+            "name": "Launch QuickSort1",
+            "request": "launch",
+            "mainClass": "All_Work.practice_java.src.QuickSort1",
+            "projectName": "DSA_Java_efdfc8e7"
+        },
+        {
+            "type": "java",
+            "name": "Launch Solution",
+            "request": "launch",
+            "mainClass": "All_Work.practice_java.src.Solution",
+            "projectName": "DSA_Java_efdfc8e7"
+        },
+        {
+            "type": "java",
+            "name": "Launch Test",
+            "request": "launch",
+            "mainClass": "All_Work.practice_java.src.Test",
+            "projectName": "DSA_Java_efdfc8e7"
+        }
+    ]
+}
