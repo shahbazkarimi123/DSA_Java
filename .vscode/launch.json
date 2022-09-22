@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch LargestConsicutive",
+            "request": "launch",
+            "mainClass": "All_Work.DSA_IN_JAVA.hash_map.LargestConsicutive",
+            "projectName": "DSA_Java_efdfc8e7"
+        },
+        {
+            "type": "java",
+            "name": "Launch UniqueChar",
+            "request": "launch",
+            "mainClass": "All_Work.DSA_IN_JAVA.hash_map.UniqueChar",
+            "projectName": "DSA_Java_efdfc8e7"
+        },
+        {
+            "type": "java",
+            "name": "Launch Add",
+            "request": "launch",
+            "mainClass": "All_Work.DSA_IN_JAVA.hash_map.Add",
+            "projectName": "DSA_Java_efdfc8e7"
+        },
+        {
+            "type": "java",
+            "name": "Launch PrintTreeLevel",
+            "request": "launch",
+            "mainClass": "All_Work.DSA_IN_JAVA.trees.PrintTreeLevel",
+            "projectName": "DSA_Java_efdfc8e7"
+        },
+        {
+            "type": "java",
+            "name": "Launch CreateTree",
+            "request": "launch",
+            "mainClass": "All_Work.DSA_IN_JAVA.trees.CreateTree",
+            "projectName": "DSA_Java_efdfc8e7"
+        },
+        {
+            "type": "java",
             "name": "Launch LargestBST",
             "request": "launch",
             "mainClass": "All_Work.BST2.LargestBST",
