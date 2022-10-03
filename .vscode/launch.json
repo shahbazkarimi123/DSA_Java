@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch PriorityQueue",
+            "request": "launch",
+            "mainClass": "All_Work.DSA_IN_JAVA.priority_Queue.PriorityQueue",
+            "projectName": "DSA_Java_efdfc8e7"
+        },
+        {
+            "type": "java",
             "name": "Launch LargestConsicutive",
             "request": "launch",
             "mainClass": "All_Work.DSA_IN_JAVA.hash_map.LargestConsicutive",

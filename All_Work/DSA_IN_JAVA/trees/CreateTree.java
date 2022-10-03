@@ -35,7 +35,6 @@ public class CreateTree {
                 TreeNode<Integer> childNode = new TreeNode<>(childData);
                 node.children.add(childNode);
                 pendingNodes.enqueue(childNode);
-
             }
         }
 
@@ -60,5 +59,4 @@ public class CreateTree {
         TreeNode<Integer> root = createNode();
         printTree(root);
     }
-    
 }
