@@ -6,6 +6,55 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch InplaceHeapSort",
+            "request": "launch",
+            "mainClass": "All_Work.DSA_IN_JAVA.priority_queue_2.InplaceHeapSort",
+            "projectName": "DSA_Java_efdfc8e7"
+        },
+        {
+            "type": "java",
+            "name": "Launch TriangelNumber",
+            "request": "launch",
+            "mainClass": "All_Work.practice_java.src.TriangelNumber",
+            "projectName": "DSA_Java_efdfc8e7"
+        },
+        {
+            "type": "java",
+            "name": "Launch StarPattern",
+            "request": "launch",
+            "mainClass": "All_Work.practice_java.src.StarPattern",
+            "projectName": "DSA_Java_efdfc8e7"
+        },
+        {
+            "type": "java",
+            "name": "Launch InvertedNumber",
+            "request": "launch",
+            "mainClass": "All_Work.practice_java.src.InvertedNumber",
+            "projectName": "DSA_Java_efdfc8e7"
+        },
+        {
+            "type": "java",
+            "name": "Launch MirrorImage",
+            "request": "launch",
+            "mainClass": "All_Work.practice_java.src.MirrorImage",
+            "projectName": "DSA_Java_efdfc8e7"
+        },
+        {
+            "type": "java",
+            "name": "Launch Nizam",
+            "request": "launch",
+            "mainClass": "All_Work.practice_java.src.Nizam",
+            "projectName": "DSA_Java_efdfc8e7"
+        },
+        {
+            "type": "java",
+            "name": "Launch IntrustingPattern",
+            "request": "launch",
+            "mainClass": "All_Work.practice_java.src.IntrustingPattern",
+            "projectName": "DSA_Java_efdfc8e7"
+        },
+        {
+            "type": "java",
             "name": "Launch PriorityQueue",
             "request": "launch",
             "mainClass": "All_Work.DSA_IN_JAVA.priority_Queue.PriorityQueue",
