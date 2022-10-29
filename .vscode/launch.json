@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch TriesUse",
+            "request": "launch",
+            "mainClass": "All_Work.DSA_IN_JAVA.tries_and_huffman.TriesUse",
+            "projectName": "DSA_Java_efdfc8e7"
+        },
+        {
+            "type": "java",
+            "name": "Launch KLargestElement",
+            "request": "launch",
+            "mainClass": "All_Work.DSA_IN_JAVA.priority_queue_2.KLargestElement",
+            "projectName": "DSA_Java_efdfc8e7"
+        },
+        {
+            "type": "java",
             "name": "Launch InplaceHeapSort",
             "request": "launch",
             "mainClass": "All_Work.DSA_IN_JAVA.priority_queue_2.InplaceHeapSort",
