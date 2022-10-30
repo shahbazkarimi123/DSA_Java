@@ -29,8 +29,6 @@ public class Tries {
         }
         addHelper(child,word.substring(1));
     }
-
-
     public void add(String word){
         addHelper(root,word);
 
@@ -68,6 +66,4 @@ public class Tries {
     public void remove(String word){
         removeHelper(root,word);
     }
-    
-    
 }
