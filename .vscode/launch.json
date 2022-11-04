@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch RatInAMatPathPrint",
+            "request": "launch",
+            "mainClass": "All_Work.DSA_IN_JAVA.backtracking.RatInAMatPathPrint",
+            "projectName": "DSA_Java_efdfc8e7"
+        },
+        {
+            "type": "java",
+            "name": "Launch RatInAMaze",
+            "request": "launch",
+            "mainClass": "All_Work.DSA_IN_JAVA.backtracking.RatInAMaze",
+            "projectName": "DSA_Java_efdfc8e7"
+        },
+        {
+            "type": "java",
+            "name": "Launch Subsequance",
+            "request": "launch",
+            "mainClass": "All_Work.DSA_IN_JAVA.recursion_3.Subsequance",
+            "projectName": "DSA_Java_efdfc8e7"
+        },
+        {
+            "type": "java",
             "name": "Launch TriesUse",
             "request": "launch",
             "mainClass": "All_Work.DSA_IN_JAVA.tries_and_huffman.TriesUse",
